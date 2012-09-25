@@ -140,16 +140,6 @@
         "rank": 14
     }, 
     {
-        "change": 0.123, 
-        "education": 0.894, 
-        "hdi": 0.889, 
-        "health": 0.946, 
-        "id": "A-VHHD", 
-        "income": 0.832, 
-        "name": "Very high human development", 
-        "rank": "n.a."
-    }, 
-    {
         "change": 0.125, 
         "education": 0.907, 
         "hdi": 0.888, 
@@ -670,16 +660,6 @@
         "rank": 66
     }, 
     {
-        "change": 0.127, 
-        "education": 0.715, 
-        "hdi": 0.741, 
-        "health": 0.838, 
-        "id": "A-HHD", 
-        "income": 0.681, 
-        "name": "High human development", 
-        "rank": "n.a."
-    }, 
-    {
         "change": 0.08299999999999996, 
         "education": 0.721, 
         "hdi": 0.739, 
@@ -728,16 +708,6 @@
         "income": 0.554, 
         "name": "Georgia", 
         "rank": 71
-    }, 
-    {
-        "change": 0.14900000000000002, 
-        "education": 0.687, 
-        "hdi": 0.731, 
-        "health": 0.858, 
-        "id": "A-RLAC", 
-        "income": 0.661, 
-        "name": "Latin America and the Caribbean (RB)", 
-        "rank": "n.a."
     }, 
     {
         "change": 0.02200000000000002, 
@@ -1000,16 +970,6 @@
         "rank": 97
     }, 
     {
-        "change": 0.124, 
-        "education": 0.61, 
-        "hdi": 0.682, 
-        "health": 0.786, 
-        "id": "A-000", 
-        "income": 0.661, 
-        "name": "World", 
-        "rank": "n.a."
-    }, 
-    {
         "change": 0.02100000000000002, 
         "education": 0.636, 
         "hdi": 0.68, 
@@ -1038,16 +998,6 @@
         "income": 0.689, 
         "name": "Gabon", 
         "rank": 100
-    }, 
-    {
-        "change": 0.24300000000000005, 
-        "education": 0.611, 
-        "hdi": 0.671, 
-        "health": 0.827, 
-        "id": "A-RAP", 
-        "income": 0.597, 
-        "name": "East Asia and the Pacific (RB)", 
-        "rank": "n.a."
     }, 
     {
         "change": 0.121, 
@@ -1110,16 +1060,6 @@
         "rank": 106
     }, 
     {
-        "change": 0.11099999999999999, 
-        "education": 0.592, 
-        "hdi": 0.64, 
-        "health": 0.783, 
-        "id": "A-SIDS", 
-        "income": 0.566, 
-        "name": "SIDS", 
-        "rank": "n.a."
-    }, 
-    {
         "change": 0.0030000000000000027, 
         "education": 0.689, 
         "hdi": 0.636, 
@@ -1158,16 +1098,6 @@
         "income": 0.537, 
         "name": "Syrian Arab Republic", 
         "rank": 110
-    }, 
-    {
-        "change": 0.21000000000000002, 
-        "education": 0.561, 
-        "hdi": 0.63, 
-        "health": 0.784, 
-        "id": "A-MHD", 
-        "income": 0.568, 
-        "name": "Medium human development", 
-        "rank": "n.a."
     }, 
     {
         "change": 0.174, 
@@ -1288,16 +1218,6 @@
         "income": 0.505, 
         "name": "Cape Verde", 
         "rank": 122
-    }, 
-    {
-        "change": 0.19200000000000006, 
-        "education": 0.45, 
-        "hdi": 0.548, 
-        "health": 0.724, 
-        "id": "A-RSA", 
-        "income": 0.507, 
-        "name": "South Asia (RB)", 
-        "rank": "n.a."
     }, 
     {
         "change": 0.20300000000000007, 
@@ -1480,16 +1400,6 @@
         "rank": 140
     }, 
     {
-        "change": 0.09800000000000003, 
-        "education": 0.428, 
-        "hdi": 0.463, 
-        "health": 0.543, 
-        "id": "A-RSSA", 
-        "income": 0.427, 
-        "name": "Sub-Saharan Africa (RB)", 
-        "rank": "n.a."
-    }, 
-    {
         "change": 0.14, 
         "education": 0.31, 
         "hdi": 0.462, 
@@ -1530,16 +1440,6 @@
         "rank": 144
     }, 
     {
-        "change": 0.14, 
-        "education": 0.392, 
-        "hdi": 0.456, 
-        "health": 0.611, 
-        "id": "A-LHD", 
-        "income": 0.396, 
-        "name": "Low human development", 
-        "rank": "n.a."
-    }, 
-    {
         "change": 0.122, 
         "education": 0.406, 
         "hdi": 0.454, 
@@ -1578,16 +1478,6 @@
         "income": 0.347, 
         "name": "Uganda", 
         "rank": 148
-    }, 
-    {
-        "change": 0.15100000000000002, 
-        "education": 0.369, 
-        "hdi": 0.439, 
-        "health": 0.617, 
-        "id": "A-LDC", 
-        "income": 0.37, 
-        "name": "Least developed countries", 
-        "rank": "n.a."
     }, 
     {
         "change": 0.08800000000000002, 
@@ -1818,6 +1708,116 @@
         "income": 0.266, 
         "name": "Niger", 
         "rank": 171
+    }, 
+    {
+        "change": 0.123, 
+        "education": 0.894, 
+        "hdi": 0.889, 
+        "health": 0.946, 
+        "id": "A-VHHD", 
+        "income": 0.832, 
+        "name": "Very high human development", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.127, 
+        "education": 0.715, 
+        "hdi": 0.741, 
+        "health": 0.838, 
+        "id": "A-HHD", 
+        "income": 0.681, 
+        "name": "High human development", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.14900000000000002, 
+        "education": 0.687, 
+        "hdi": 0.731, 
+        "health": 0.858, 
+        "id": "A-RLAC", 
+        "income": 0.661, 
+        "name": "Latin America and the Caribbean (RB)", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.124, 
+        "education": 0.61, 
+        "hdi": 0.682, 
+        "health": 0.786, 
+        "id": "A-000", 
+        "income": 0.661, 
+        "name": "World", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.24300000000000005, 
+        "education": 0.611, 
+        "hdi": 0.671, 
+        "health": 0.827, 
+        "id": "A-RAP", 
+        "income": 0.597, 
+        "name": "East Asia and the Pacific (RB)", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.11099999999999999, 
+        "education": 0.592, 
+        "hdi": 0.64, 
+        "health": 0.783, 
+        "id": "A-SIDS", 
+        "income": 0.566, 
+        "name": "SIDS", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.21000000000000002, 
+        "education": 0.561, 
+        "hdi": 0.63, 
+        "health": 0.784, 
+        "id": "A-MHD", 
+        "income": 0.568, 
+        "name": "Medium human development", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.19200000000000006, 
+        "education": 0.45, 
+        "hdi": 0.548, 
+        "health": 0.724, 
+        "id": "A-RSA", 
+        "income": 0.507, 
+        "name": "South Asia (RB)", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.09800000000000003, 
+        "education": 0.428, 
+        "hdi": 0.463, 
+        "health": 0.543, 
+        "id": "A-RSSA", 
+        "income": 0.427, 
+        "name": "Sub-Saharan Africa (RB)", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.14, 
+        "education": 0.392, 
+        "hdi": 0.456, 
+        "health": 0.611, 
+        "id": "A-LHD", 
+        "income": 0.396, 
+        "name": "Low human development", 
+        "rank": "n.a."
+    }, 
+    {
+        "change": 0.15100000000000002, 
+        "education": 0.369, 
+        "hdi": 0.439, 
+        "health": 0.617, 
+        "id": "A-LDC", 
+        "income": 0.37, 
+        "name": "Least developed countries", 
+        "rank": "n.a."
     }, 
     {
         "change": "", 
